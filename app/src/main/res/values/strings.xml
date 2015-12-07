@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tabs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="title_activity_collapsing_toolbar">CollapsingToolbar</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
